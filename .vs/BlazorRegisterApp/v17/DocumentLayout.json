@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RegistrationService\\BlazorRegisterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\pages\\registration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\pages\\registration.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\blazorregisterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\blazorregisterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9B5B57-D20D-461F-B1DC-AF977736C3FC}|Producer\\Producer.csproj|c:\\registrationservice\\blazorregisterapp\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9B5B57-D20D-461F-B1DC-AF977736C3FC}|Producer\\Producer.csproj|solutionrelative:producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|c:\\registrationservice\\blazorregisterapp\\blazorregisterapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E53D985-9C21-4917-95A4-8C62FFDE6180}|BlazorRegisterApp\\BlazorRegisterApp.csproj|solutionrelative:blazorregisterapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:20:35.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:19:35.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\User\\UserRepository.cs",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\User\\UserRepository.cs",
+              "RelativeToolTip": "BlazorRegisterApp\\User\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:39:12.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\User\\user.cs",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\User\\user.cs",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\User\\user.cs",
+              "RelativeToolTip": "BlazorRegisterApp\\User\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:37:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\appsettings.json",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\appsettings.json",
+              "RelativeToolTip": "BlazorRegisterApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T17:51:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Program.cs",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Program.cs",
+              "RelativeToolTip": "BlazorRegisterApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T15:18:32.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:24:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:19:16.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registration.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Registration.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Pages\\Registration.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Registration.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Pages\\Registration.razor",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:19:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\Producer\\Program.cs",
+              "RelativeDocumentMoniker": "Producer\\Program.cs",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\Producer\\Program.cs",
+              "RelativeToolTip": "Producer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T11:43:53.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlazorRegisterApp.csproj",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\BlazorRegisterApp.csproj",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\BlazorRegisterApp.csproj",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\BlazorRegisterApp.csproj",
+              "RelativeToolTip": "BlazorRegisterApp\\BlazorRegisterApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T17:37:13.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\wwwroot\\app.css",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\app.css",
+              "RelativeToolTip": "BlazorRegisterApp\\wwwroot\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T15:49:50.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\App.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\App.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:19:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:19:52.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\wwwroot\\favicon.png",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "BlazorRegisterApp\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-07T15:51:15.998Z",
+              "EditorCaption": " -  [English (United States)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlazorRegisterApp\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-07T15:24:07.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Routes.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:18:59.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "BlazorRegisterApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T15:24:11.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T15:27:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorRegisterApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\RegistrationService\\BlazorRegisterApp\\BlazorRegisterApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorRegisterApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T15:46:29.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

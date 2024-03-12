@@ -1,0 +1,92 @@
+﻿@page "/Registration"
+@using BlazorRegisterApp.User
+@rendermode InteractiveServer
+@inject IConfiguration Configuration
+@attribute [StreamRendering]
+
+
+<PageTitle>Welcome to the Registration Page</PageTitle>
+
+<h1>New User? Register Here</h1>
+<link rel="stylesheet" href="bootstrap/register.css" />
+<div class="background">
+    <div class="form-group">
+        <label for="name">Name:</label> <br/>
+        <input type="text" class="form-control" id="Name" @bind="usr.Name">
+        <br />
+    </div>
+
+    <div class="form-group">
+        <label for="email">Email:</label> <br/>
+        <input type="email" class="form-control" id="Email" @bind="usr.Email">
+        <br />
+    </div>
+
+    <div class="form-group">
+        <label for="password">Password:</label><br />
+        <input type="password" class="form-control" id="Password" @bind="usr.Password">
+        <br />
+    </div>
+
+    <div class="form-group">
+        <label for="contact">Contact:</label><br/>
+        <input type="text" class="form-control" id="contact" @bind="usr.Contact">
+        <br />
+    </div>
+
+    <div class="form-group">
+        <label for="image">Image:</label><br/>
+        <input type="file" class="form-control-file" id="image">
+        <br />
+        <br />
+    </div>
+
+     <div class="form-group">
+        <label for="role">Role:</label><br/>
+        <input type="text" class="form-control" id="role" @bind="usr.Role">
+        <br />
+    </div>
+
+    <div class="form-group">
+        <label for="roledescription">RoleDescription:</label><br />
+        <input type="text" class="form-control" id="roledescription" @bind="usr.RoleDescription">
+        <br />
+    </div>
+
+    <button class="btn btn-primary" @onclick="Register">Registration</button>
+</div>
+
+@if (showSuccessPopup)
+{
+    <div class="success-popup">
+        @($"{name} has been registered successfully!")
+    </div>
+}
+@code {
+    private user usr = new user();
+    private UserRepository userRepository;
+    private bool showSuccessPopup = false;
+    private string name = "";
+
+    protected override void OnInitialized()
+    {
+        userRepository = new UserRepository(Configuration);
+    }
+
+    private void Register()
+    {
+        user result = userRepository.AddUser(usr);
+        Console.WriteLine(result);
+        name = usr.Name;
+        usr.Name = "";
+        usr.Email = "";
+        usr.Password = "";
+        usr.Contact = "";
+        usr.Image = "";
+        usr.Role="";
+        usr.RoleDescription = "";
+        showSuccessPopup = true;
+    }
+}
+
+

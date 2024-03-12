@@ -1,0 +1,64 @@
+﻿@page "/Login"
+@attribute [StreamRendering]
+@using BlazorRegisterApp.User
+@inject IConfiguration Configuration
+@inject NavigationManager Navigation
+
+
+
+<PageTitle>Login Form</PageTitle>
+
+<h1>Login here..</h1>
+
+<p>If you are already registered, please login below:</p>
+
+<div class="form-group">
+    <label for="email">Email:</label>
+    <input type="email" class="form-control" id="email" @bind="usr.Email">
+</div>
+
+<div class="form-group">
+    <label for="password">Password:</label>
+    <input type="password" class="form-control" id="password" @bind="usr.Password">
+    <br/>
+</div>
+
+<button class="btn btn-primary" @onclick="LoginUser">Login</button>
+
+@if (showSuccessPopup)
+{
+    <div class="success-popup">
+        "Login successfully!")
+    </div>
+}
+
+
+
+@code {
+    private user usr = new user();
+    private UserRepository userRepository;
+    private bool showSuccessPopup = false;
+
+
+    protected override void OnInitialized()
+    {
+        userRepository = new UserRepository(Configuration);
+    }
+
+    private void LoginUser()
+    {
+        user result = userRepository.AuthenticateUser(usr);
+
+        if (result != null)
+        {
+            showSuccessPopup = true;
+            // Redirect to another page after login
+            //Navigation.NavigateTo("/Dashboard"); // Replace "/Dashboard" with the desired page after successful login
+        }
+        else
+        {
+            // Handle login failure (e.g., display error message)
+            Console.WriteLine("error");
+        }
+    }
+}
